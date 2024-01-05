@@ -16,4 +16,6 @@ docs:
     children:
       - title: "Wet Lab Protocols"
         url: /KiemLabProtocols/
+      - title: "Projects"
+        url: /projects/
       
