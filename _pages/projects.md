@@ -1,5 +1,6 @@
 ---
 permalink: /projects/
 title: "Projects"
-nav: "docs"
+sidebar:
+  nav: "docs"
 ---
