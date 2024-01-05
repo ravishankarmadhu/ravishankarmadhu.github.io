@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
+
+docs:
+  - title: Anki Resources
+    children:
+      - title: "Anki Settings"
+        url: /docs/anki-settings/
+      - title: "Anki Hub Guide"
+        url: /docs/anki-hub-guide/
+  
+  - title: Other Projects
+    children:
+      - title: "Wet Lab Protocols"
+        url: /KiemLabProtocols/
+      
