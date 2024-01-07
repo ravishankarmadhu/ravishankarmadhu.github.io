@@ -24,9 +24,9 @@ When medicine changes, if you are relying on cards downloaded a year ago, you wo
 
 Here are some examples in the content we went over. 
 
-![[Anki Hub Edit 1.png]]
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/Anki%20Hub%20Edit%201.png?raw=true)
 
-![[Anki Hub Edit 2.png]]
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/Anki%20Hub%20Edit%202.png?raw=true)
 
 # What are the Downsides?
 It costs money, and unlike a lecture video from Boards and Beyond, you cannot really pirate this feature since the cards are constantly updating. As I mentioned before, it is $5 a month or $240 for a lifetime subscription. Personally, I found Anki to be the most useful tool for my studying so this has been amazing for me. However, your milage might vary. 
@@ -36,7 +36,7 @@ I'll be honest, it won't be that much different. The decks that I send out after
 
 The biggest thing that might change is that the way you organize your decks will be different. Rather than having a bunch of individual decks for each lecture, you will just have the big AnKing Deck, with each lecture separated by tags. It should look something like this:
 
-![[SeperatedByTags.png]]
+![] (https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/SeperatedByTags.png?raw=true)
 
 # Ok, how do I set this up?
 
@@ -49,15 +49,16 @@ https://ankingmed.notion.site/AnKing-Overhaul-Deck-for-Step-1-2-3-Wiki-0a460db36
 This is a school specific tag that breaks down the relevent cards by Block and Lecture.
 
 1. On you Anki Hub page, click on the AnKing Step Deck
-![[ClickOnDeck.png]]
+![] (https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/ClickOnDeck.png?raw=true)
 
 2. Click on the 3 dots on the right and select manage optional tags. 
-![[3dots.png]]
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/3dots.png?raw=true)
 
-![[manageoptionaltags.png]]
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/manageoptionaltags.png?raw=true)
 
 3. Scroll down and find the CreightonMed Tag and press save. 
-![[CreightonMed.png]]
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/CreightonMed.png?raw=true)
+
 4. The next time you sync you should see these tags appear. 
 
 # Questions
