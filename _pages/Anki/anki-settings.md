@@ -3,6 +3,9 @@ permalink: /docs/anki-settings/
 title: Anki Settings
 sidebar:
   nav: docs
+toc: true
+toc_label: "Anki Settings"
+toc_sticky: true
 ---
 # Introduction
 
