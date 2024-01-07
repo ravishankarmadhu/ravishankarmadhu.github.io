@@ -49,7 +49,7 @@ https://ankingmed.notion.site/AnKing-Overhaul-Deck-for-Step-1-2-3-Wiki-0a460db36
 This is a school specific tag that breaks down the relevent cards by Block and Lecture.
 
 1. On you Anki Hub page, click on the AnKing Step Deck
-![] (https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/ClickOnDeck.png?raw=true)
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/ClickOnDeck.png?raw=true)
 
 2. Click on the 3 dots on the right and select manage optional tags. 
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/3dots.png?raw=true)
