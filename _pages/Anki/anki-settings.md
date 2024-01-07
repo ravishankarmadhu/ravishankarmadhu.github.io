@@ -38,6 +38,7 @@ This new algorithm is only available for the latest version of anki. Unfortunate
 <!-- ![[DragIcon.png||600]] -->
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/DragIcon.png?raw=true)
 6. A pop-up will appear. Select Replace. __THIS WILL NOT RESET YOUR CARDS__
+
 <!-- ![[SelectReplace.png]] -->
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/SelectReplace.png?raw=true)
 
@@ -58,7 +59,7 @@ Watch this video from the AnKing if you are curious.
 2. Scroll to the bottom untill you reach the __Advanced Tab__ and turn on FSRS
 <!-- ![[TurningOnFSRS.png|600]] -->
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/TurningOnFSRS.png?raw=true)
-3. Once you do that, more FSRS settings will appear. Set your desired retention to 0.9. (This means that 90% of the time, you will get a mature card wrong). If you want a higher long term retention I would not recommend raising it above 0.95. You can also lower the retention. This will give you less cards per day, but the trade off is you are more likely to get the card wrong. If you are going to lower the retention, I would not drop it below 0.80. 
+3. Once you do that, more FSRS settings will appear. Set your desired retention to 0.9. (This means that 90% of the time, you will get a mature card right). If you want a higher long term retention I would not recommend raising it above 0.95. You can also lower the retention. This will give you less cards per day, but the trade off is you are more likely to get the card wrong. If you are going to lower the retention, I would not drop it below 0.80. 
 <!-- ![[Other FSRS Settings.png|600]] -->
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/Other%20FSRS%20Settings.png?raw=true)
 4. Select the Reschedule cards on change button.
