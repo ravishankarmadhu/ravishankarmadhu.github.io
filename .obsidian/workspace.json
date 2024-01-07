@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/Anki/anki-settings.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/Anki/anki-settings.md",
+                "file": "_pages/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/Anki/anki-settings.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/Anki/anki-settings.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "75894871691d929e",
   "lastOpenFiles": [
+    "_pages/Anki/anki-settings.md",
     "_Media/Anki/OneLearningStep.png",
     "_Media/Anki/NewAnkiSettings.png",
     "_Media/Anki/OldAnkiSettings.png",
@@ -171,12 +172,10 @@
     "_Media/Anki/LatestVersion.png",
     "_Media/Anki/DragIcon.png",
     "_Media/Anki/VersionNumber.png",
-    "_Media/Anki/AboutAnki.png",
     "_Media/Anki",
     "Untitled",
     "_Media",
     "_pages/projects.md",
-    "_pages/Anki/anki-settings.md",
     "_pages/Anki/anki-hub-guide.md"
   ]
 }
