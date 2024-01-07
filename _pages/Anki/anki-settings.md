@@ -1,5 +1,5 @@
 ---
-permalink: /anki-settings/
+permalink: /docs/anki-settings/
 title: Anki Settings
 sidebar:
   nav: docs
