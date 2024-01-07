@@ -26,6 +26,7 @@ This new algorithm is only available for the latest version of anki. Unfortunate
 1. In Anki, got to the very top bar and select __Anki__ --> __About Anki__. 
 <!-- ![[AboutAnki.png|600]]
 ![[VersionNumber.png|600]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/AboutAnki.png?raw=true)
 
 2. Check to make sure if it is at least Version __23.12.1__
 3. If it is not, got to https://apps.ankiweb.net/, download the latest version of Anki for apple Silicon. 
