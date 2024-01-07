@@ -36,14 +36,14 @@ I'll be honest, it won't be that much different. The decks that I send out after
 
 The biggest thing that might change is that the way you organize your decks will be different. Rather than having a bunch of individual decks for each lecture, you will just have the big AnKing Deck, with each lecture separated by tags. It should look something like this:
 
-![] (https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/SeperatedByTags.png?raw=true)
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/SeperatedByTags.png?raw=true)
 
 # Ok, how do I set this up?
 
 ## Setup Guide
 Rather than rehash the explanation process, the AnKing has a great step by step process on how to set everything up. 
 
-https://ankingmed.notion.site/AnKing-Overhaul-Deck-for-Step-1-2-3-Wiki-0a460db360574949899a0745f1fedc5b#0470e2ae1b0f43fab2501464917a5f74
+[Set Up Guide](https://ankingmed.notion.site/AnKing-Overhaul-Deck-for-Step-1-2-3-Wiki-0a460db360574949899a0745f1fedc5b#0470e2ae1b0f43fab2501464917a5f74)
 
 ## Subscribe to the CreightonMed Optional Tag
 This is a school specific tag that breaks down the relevent cards by Block and Lecture.
