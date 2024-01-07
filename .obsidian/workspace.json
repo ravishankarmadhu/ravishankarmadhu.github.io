@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Anki/anki-hub-guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Anki/anki-hub-guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Anki/anki-hub-guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_pages/Anki/anki-hub-guide.md"
               }
             }
           }
@@ -161,17 +161,19 @@
   },
   "active": "75894871691d929e",
   "lastOpenFiles": [
+    "_Media/Anki/CreightonMed.png",
+    "_Media/Anki/manageoptionaltags.png",
+    "_Media/Anki/3dots.png",
+    "_Media/Anki/ClickOnDeck.png",
+    "_Media/Anki/SeperatedByTags.png",
+    "_Media/Anki/Anki Hub Edit 2.png",
+    "_Media/Anki/Anki Hub Edit 1.png",
+    "_pages/about.md",
     "_pages/Anki/anki-settings.md",
     "_Media/Anki/OneLearningStep.png",
     "_Media/Anki/NewAnkiSettings.png",
     "_Media/Anki/OldAnkiSettings.png",
     "_Media/Anki/Other FSRS Settings.png",
-    "_Media/Anki/TurningOnFSRS.png",
-    "_Media/Anki/GearWheelSettings.png",
-    "_Media/Anki/SelectReplace.png",
-    "_Media/Anki/LatestVersion.png",
-    "_Media/Anki/DragIcon.png",
-    "_Media/Anki/VersionNumber.png",
     "_Media/Anki",
     "Untitled",
     "_Media",
