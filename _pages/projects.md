@@ -1,8 +1,8 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: Projects
 sidebar:
-    nav: "docs"
+  nav: docs
 ---
 
 This is a defult landing page for the navigation bar
