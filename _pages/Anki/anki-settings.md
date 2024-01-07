@@ -27,15 +27,19 @@ This new algorithm is only available for the latest version of anki. Unfortunate
 <!-- ![[AboutAnki.png|600]]
 ![[VersionNumber.png|600]] -->
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/AboutAnki.png?raw=true)
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/VersionNumber.png?raw=true)
 
 2. Check to make sure if it is at least Version __23.12.1__
 3. If it is not, got to https://apps.ankiweb.net/, download the latest version of Anki for apple Silicon. 
 <!-- ![[LatestVersion.png|600]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/LatestVersion.png?raw=true)
 
 5. Double click the file you just downloaded and drag the Anki icon into the applications folder. 
 <!-- ![[DragIcon.png||600]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/DragIcon.png?raw=true)
 6. A pop-up will appear. Select Replace. __THIS WILL ==NOT== RESET YOUR CARDS__
 <!-- ![[SelectReplace.png]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/SelectReplace.png?raw=true)
 
 Now your version is up to date. 
 
@@ -50,14 +54,17 @@ Watch this video from the AnKing if you are curious.
 ## How to Activate FSRS on your device
 1. On your deck tab on Anki, click the gear wheel next to one of you decks. 
 <!-- ![[GearWheelSettings.png|600]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/GearWheelSettings.png?raw=true)
 2. Scroll to the bottom untill you reach the __Advanced Tab__ and turn on FSRS
 <!-- ![[TurningOnFSRS.png|600]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/TurningOnFSRS.png?raw=true)
 3. Once you do that, more FSRS settings will appear. Set your desired retention to 0.9. (This means that 90% of the time, you will get a mature card wrong). If you want a higher long term retention I would not recommend raising it above 0.95. You can also lower the retention. This will give you less cards per day, but the trade off is you are more likely to get the card wrong. If you are going to lower the retention, I would not drop it below 0.80. 
 ![[Other FSRS Settings.png|600]]
 4. Select the Reschedule cards on change button.
 5. Press the optimize button. 
 6. Change your learning interval so that only has one learning stage that ranges from 15-30 minutes. 
 <!-- ![[OneLearningStep.png|600]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/OneLearningStep.png?raw=true)
 
 ## That is it
 Now just go about doing your reviews like normal. When you start to do a new card, you will get variable amounts of time depending on how you are performing. This would mean that I card you would normally see in 1 day won't be seen for 4 days. That sounds scary, and I am still coming to terms with this change. 
@@ -65,6 +72,7 @@ Now just go about doing your reviews like normal. When you start to do a new car
 # Can I just see what your settings are?
 ## Old Anki Algorithm Settings
 <!-- ![[OldAnkiSettings.png]] -->
-
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/OldAnkiSettings.png?raw=true)
 ## New Anki Settings
 <!-- ![[NewAnkiSettings.png]] -->
+![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/NewAnkiSettings.png?raw=true)
