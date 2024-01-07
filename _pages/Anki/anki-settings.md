@@ -68,8 +68,10 @@ Watch this video from the AnKing if you are curious.
 <!-- ![[OneLearningStep.png|600]] -->
 ![](https://github.com/ravishankarmadhu/ravishankarmadhu.github.io/blob/master/_Media/Anki/OneLearningStep.png?raw=true)
 
-## That is it
-Now just go about doing your reviews like normal. When you start to do a new card, you will get variable amounts of time depending on how you are performing. This would mean that I card you would normally see in 1 day won't be seen for 4 days. That sounds scary, and I am still coming to terms with this change. 
+## Ok, whats next?
+Now just go about doing your reviews like normal. The biggest change that will occur is that the length of time that you will see a card after you press okay (Spacebar) will be dependent on your prior preformace. For instance, a brand new card could show up 6 days from know or 2 days from know depedning on how your reviews have gone recently. In theory, this should reduce the number of cards you need to do each day. 
+
+However, about every month, you will need to "re-optimize" your settings. This can be done by opening up the settings and pressing the optimize button. Once you have done that, it will take a look at your past performance for the month, and edit the scheduling of cards to match up with your desired retention rate. 
 
 # Can I just see what your settings are?
 ## Old Anki Algorithm Settings
